@@ -1,2 +1,2 @@
-# lobola.github.io
+# lobolas.github.io
 Lobola - pap cooker website
